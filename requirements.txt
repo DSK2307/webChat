@@ -1,0 +1,9 @@
+streamlit
+beautifulsoup4
+requests
+pillow
+langchain
+langchain-community
+langchain-google-genai
+chromadb
+python-dotenv
